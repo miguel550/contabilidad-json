@@ -1,0 +1,12 @@
+
+{
+  "name": "Contabilidad REST",
+  "description": "A Flask app to send information to WebService in json format",
+  "keywords": [
+    "flask",
+    "python",
+    "wrapper",
+    "REST"
+  ],
+  "repository": "https://github.com/miguel550/contabilidad-rest"
+}
